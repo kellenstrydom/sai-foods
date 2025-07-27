@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { checkValueExists } from '../utils/checkValue';
-import styles from './MultiCheck.module.css';
+import styles from './multiCheck.module.css';
 
 type WordEntry = {
   id: number;
